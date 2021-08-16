@@ -1,4 +1,5 @@
 # Collatz_conjecture
+aka 3X+1
 
 It takes any positive int and uses the rule
 
